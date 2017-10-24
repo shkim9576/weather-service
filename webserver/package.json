@@ -1,0 +1,13 @@
+{
+  "name": "Weather-Service",
+  "version": "1.0.0",
+  "description": "Weather Service",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.8.8",
+    "body-parser": "~1.8.0",
+    "method-override": "~2.2.0",
+    "jquery": "latest",
+    "request": "latest"
+  }
+}
